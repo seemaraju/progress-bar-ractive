@@ -1,3 +1,6 @@
+Progress Bar using Ractive
+====================
+
 1.  Navigate to the project folder
 2.  Under the project folder, open the command prompt.
 3.  Run 'bower install && npm install'.
