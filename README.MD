@@ -9,8 +9,8 @@ Progress Bar using Ractive
 Tools & Frameworks Used
 ---------------------
 
-Bootstrap
-Ractive
-Modernizr
-Testing Frameworks(Chai/Mocha)
-CSS/SASS
+*	Bootstrap
+*	Ractive
+*	Modernizr
+*	Testing Frameworks(Chai/Mocha)
+*	CSS/SASS
