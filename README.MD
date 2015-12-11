@@ -7,6 +7,8 @@ Progress Bar using Ractive
 4.  To run the app, run 'grunt serve'.
 
 Tools & Frameworks Used
+---------------------
+
 Bootstrap
 Ractive
 Modernizr
